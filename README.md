@@ -1,4 +1,4 @@
-# 🧾Employee-Attendance-Tracking-and-Analysis-System_Power-BI
+# 🧾Tesla-HR Analytics | Power-BI
 
 _An automated Excel-based attendance tracking system that records, categorizes, and analyzes employee attendance data using dynamic formulas and cross-sheet references.._
 
