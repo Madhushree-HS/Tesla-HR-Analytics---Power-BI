@@ -16,12 +16,12 @@ _An automated Excel-based attendance tracking system that records, categorizes, 
 - <a href="#final-recommendations">Final Recommendations</a>
 
 ---
-<h2><a class="anchor" id="overview"></a>Overview</h2>
+<h2><a class="anchor" id="overview"></a>📘Overview</h2>
 
 This project involves maintaining and analyzing monthly attendance records for Tesla employees. It uses Excel formulas to automatically calculate attendance metrics such as present days, leaves, work-from-home days, and other leave types based on a centralized “Attendance Key” sheet. The system supports multiple months and provides a structured view of employee attendance patterns.
 
 ---
-<h2><a class="anchor" id="problem-statement"></a>Problem-Statement</h2>
+<h2><a class="anchor" id="problem-statement"></a>🎯Problem-Statement</h2>
 
 **Manual attendance tracking is time-consuming and prone to errors. There is a need for a standardized, automated system to:**
       Accurately track daily attendance statuses.
@@ -31,7 +31,7 @@ This project involves maintaining and analyzing monthly attendance records for T
 
 
 ---
-<h2><a class="anchor" id="dataset"></a>Dataset</h2>
+<h2><a class="anchor" id="dataset"></a>📂Dataset</h2>
 
 **Source:** Monthly attendance sheets (e.g., June 2022, May 2022).
 **Fields Included:**
@@ -42,14 +42,14 @@ This project involves maintaining and analyzing monthly attendance records for T
 
 ---
 
-<h2><a class="anchor" id="tools--technologies"></a>Tools & Technologies</h2>
+<h2><a class="anchor" id="tools--technologies"></a>🛠 Tools & Technologies</h2>
 
 **Power BI** ETL process,Data Cleaning,Data Modeling
 **SQL** Data aggregation, filtering, and joining
 **Excel/CSV** Optional data export for visualization
 
 ---
-<h2><a class="anchor" id="Method"></a>Method</h2>
+<h2><a class="anchor" id="Method"></a>⚙ Method</h2>
 
 **Data Entry:** Daily attendance is logged using standardized codes.
 **Automated Calculation:**
@@ -59,7 +59,7 @@ This project involves maintaining and analyzing monthly attendance records for T
 **Scalability:** Template can be duplicated for additional months.
 
 ---
-<h2><a class="anchor" id="key-insights"></a>Key-insights</h2>
+<h2><a class="anchor" id="key-insights"></a>📊 Key-insights</h2>
 
 1. The system allows for real-time attendance summary per employee.
 2. Supports half-day and full-day leave tracking.
@@ -67,14 +67,14 @@ This project involves maintaining and analyzing monthly attendance records for T
 4. Enables monthly comparison
 
 ---
-<h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
+<h2><a class="anchor" id="dashboard"></a>📈 Dashboard</h2>
 
 **Output**: Each employee’s attendance summary per month, including:
 Total Present Days,Work from Home,Paid Leave,Sick Leave,Floating Holidays,Bereavement Leave,Leave Without Pay,Weekly Offs,Holiday Offs,Menstrual Leave
 **Layout**: Table format with rows per employee and columns for each attendance type.
 
 ---
-<h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
+<h2><a class="anchor" id="how-to-run-this-project"></a>▶ How to Run This Project</h2>
 
 1. Open the Excel file: Attendance Track- Excel.xlsx
 2. Navigate between sheets: June 2022, May 2022
@@ -83,7 +83,7 @@ Total Present Days,Work from Home,Paid Leave,Sick Leave,Floating Holidays,Bereav
 5. No macros or external tools required—works in any Excel-supported environment.
 
 ---
-<h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
+<h2><a class="anchor" id="final-recommendations"></a>✅ Final Recommendations</h2>
 
 **Results:** The system efficiently automates attendance summarization, reduces manual errors, and provides clear visibility into employee attendance trends.
 
