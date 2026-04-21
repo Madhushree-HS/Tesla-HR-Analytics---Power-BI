@@ -18,7 +18,7 @@ _An automated Excel-based attendance tracking system that records, categorizes, 
 ---
 <h2><a class="anchor" id="overview"></a>📘Overview</h2>
 
-This project involves maintaining and analyzing monthly attendance records for Tesla employees. It uses Excel formulas to automatically calculate attendance metrics such as present days, leaves, work-from-home days, and other leave types based on a centralized “Attendance Key” sheet. The system supports multiple months and provides a structured view of employee attendance patterns.
+An automated Excel-based solution designed to streamline monthly attendance management for Tesla employees. The system dynamically calculates attendance metrics — including present days, leaves, WFH days, and additional leave categories using a centralized "Attendance Key" sheet as its single source of truth. With multi-month support, it offers HR teams a reliable and structured overview of employee attendance patterns at a glance.
 
 ---
 <h2><a class="anchor" id="problem-statement"></a>🎯Problem-Statement</h2>
